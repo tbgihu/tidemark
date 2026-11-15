@@ -1,0 +1,5 @@
+build/
+.DS_Store
+# Every hidden folder: a tool's own state (a build cache, an editor's settings) stays out of every commit. A hidden
+# folder that is to be tracked is added here by name, as `!.name/`.
+.*/
